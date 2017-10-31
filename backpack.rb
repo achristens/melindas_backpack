@@ -52,7 +52,6 @@ class Backpack
     end
   end
 
-  # Prints a summary packing list for Melinda's backpack
   def print_list
     output = []
     output << "Melinda, here's your packing list!"
